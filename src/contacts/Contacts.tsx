@@ -11,7 +11,7 @@ export const Contacts = () => {
                 <form className={s.formContainer}>
                     <input type="text"/>
                     <input type="text"/>
-                    <textarea cols="50" rows="10"></textarea>
+                    <textarea cols={50} rows={10}></textarea>
                 </form>
                 <button className={sbutton.button}>Hire me !!!</button>
             </div>
