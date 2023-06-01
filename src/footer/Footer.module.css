@@ -1,0 +1,25 @@
+.footerBlock {
+    height: 100vh;
+    background-color: #9601c7;
+}
+
+.footerContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.footerInfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 280px;
+}
+
+.footerInfo span {
+    background-color: #213547;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+
+

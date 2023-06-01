@@ -1,0 +1,18 @@
+.mainBlock {
+    background-color: #ccb200;
+    min-height: 100vh;
+}
+
+.projectsContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+
+.projects {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

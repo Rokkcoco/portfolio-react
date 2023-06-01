@@ -1,0 +1,23 @@
+.remoteMain {
+    height: 100vh;
+    background-color: #afde00;
+}
+
+.remoteContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.title {
+    background-color: brown;
+}
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 230px;
+    border: 1px solid;
+    margin-bottom: 40px;
+    width: 280px;
+}
